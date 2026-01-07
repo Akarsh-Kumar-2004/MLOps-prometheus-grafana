@@ -127,3 +127,5 @@ password = your-generated-app-password
 from_address = your-email@gmail.com
 from_name = Grafana Alerts
 skip_verify = true
+
+no hands-on done yet
